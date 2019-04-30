@@ -1,0 +1,26 @@
+{
+  "name": "salaire-convector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franck-artaud/SALAIRE-CONVECTOR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franck-artaud/SALAIRE-CONVECTOR/issues"
+  },
+  "homepage": "https://github.com/franck-artaud/SALAIRE-CONVECTOR#readme"
+}
